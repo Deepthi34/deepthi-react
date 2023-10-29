@@ -1,2 +1,2 @@
-# namasthe-react
-namasthe-react
+# deepthi-react
+deepthi-react
